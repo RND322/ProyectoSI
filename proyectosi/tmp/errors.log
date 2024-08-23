@@ -1,0 +1,161 @@
+[10-Aug-2024 21:15:43 Europe/Berlin] ::session.inc:453:[before upgrade] Undefined variable $dflt_lang
+[10-Aug-2024 21:15:43 Europe/Berlin] ::session.inc:453:[before upgrade] Undefined variable $installed_languages
+[10-Aug-2024 21:15:43 Europe/Berlin] ::session.inc:454:[before upgrade] Trying to access array offset on value of type null
+[10-Aug-2024 21:15:43 Europe/Berlin] ::session.inc:454:[before upgrade] Trying to access array offset on value of type null
+[10-Aug-2024 21:15:43 Europe/Berlin] ::session.inc:454:[before upgrade] Trying to access array offset on value of type null
+[10-Aug-2024 21:15:43 Europe/Berlin] ::gettext.inc:74:[before upgrade] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated
+[10-Aug-2024 21:15:43 Europe/Berlin] ::gettext.inc:75:[before upgrade] strtolower(): Passing null to parameter #1 ($string) of type string is deprecated
+[10-Aug-2024 21:15:43 Europe/Berlin] 0::login.php:117:[before upgrade] Undefined variable $db_connections
+[10-Aug-2024 21:15:43 Europe/Berlin] 0::login.php:117:[before upgrade] Unhandled exception [0]: count(): Argument #1 ($value) must be of type Countable|array, null given.
+[10-Aug-2024 23:38:50 Europe/Berlin] 0:admin:tcpdf.php:1172: Creation of dynamic property TCPDF::$padding is deprecated
+[11-Aug-2024 02:53:10 Europe/Berlin] 0:admin:sales_kits.php:234: Trying to access array offset on value of type bool
+[11-Aug-2024 02:53:10 Europe/Berlin] 0:admin:sales_kits.php:235: Trying to access array offset on value of type bool
+[11-Aug-2024 03:50:24 Europe/Berlin] 0:admin:sales_order_entry.php:102: Undefined array key "page_title"
+[11-Aug-2024 03:50:24 Europe/Berlin] 0:admin:sales_order_entry.php:710: Undefined array key "Items"
+[11-Aug-2024 03:50:24 Europe/Berlin] 0:admin:sales_order_entry.php:710: Attempt to read property "fixed_asset" on null
+[11-Aug-2024 03:50:24 Europe/Berlin] 0:admin:sales_order_entry.php:717: Undefined array key "Items"
+[11-Aug-2024 03:50:24 Europe/Berlin] 0:admin:sales_order_entry.php:717: Attempt to read property "trans_type" on null
+[11-Aug-2024 03:50:24 Europe/Berlin] 0:admin:sales_order_entry.php:723: Undefined array key "Items"
+[11-Aug-2024 03:50:24 Europe/Berlin] 0:admin:sales_order_entry.php:723: Attempt to read property "trans_type" on null
+[11-Aug-2024 03:50:24 Europe/Berlin] 0:admin:sales_order_entry.php:729: Undefined array key "Items"
+[11-Aug-2024 03:50:24 Europe/Berlin] 0:admin:sales_order_entry.php:729: Attempt to read property "trans_type" on null
+[11-Aug-2024 03:50:24 Europe/Berlin] 0:admin:sales_order_entry.php:747: Unhandled exception [0]: Call to a member function is_started() on null.
+[11-Aug-2024 03:50:30 Europe/Berlin] 0:admin:sales_order_entry.php:102: Undefined array key "page_title"
+[11-Aug-2024 03:50:30 Europe/Berlin] 0:admin:sales_order_entry.php:267: Unhandled exception [0]: Attempt to assign property "reference" on null.
+[11-Aug-2024 03:50:37 Europe/Berlin] 0:admin:sales_order_entry.php:102: Undefined array key "page_title"
+[11-Aug-2024 03:50:37 Europe/Berlin] 0:admin:sales_order_entry.php:267: Unhandled exception [0]: Attempt to assign property "reference" on null.
+[11-Aug-2024 03:58:13 Europe/Berlin] 0:admin:class.graphic.inc:1240: Unhandled exception [0]: Call to undefined function imageftbbox().
+[11-Aug-2024 03:58:37 Europe/Berlin] 0:admin:sales_kits.php:234: Trying to access array offset on value of type bool
+[11-Aug-2024 03:58:37 Europe/Berlin] 0:admin:sales_kits.php:235: Trying to access array offset on value of type bool
+[11-Aug-2024 04:02:01 Europe/Berlin] 0:admin:grn_db.inc:157: Creation of dynamic property purch_order::$trans_no is deprecated
+[11-Aug-2024 04:03:41 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:3
+[14-Aug-2024 19:14:36 Europe/Berlin] 0:admin:archive.inc:21: Creation of dynamic property package::$options is deprecated
+[14-Aug-2024 19:14:36 Europe/Berlin] 0:admin:archive.inc:36: Creation of dynamic property package::$files is deprecated
+[14-Aug-2024 19:14:36 Europe/Berlin] 0:admin:archive.inc:37: Creation of dynamic property package::$exclude is deprecated
+[14-Aug-2024 19:14:36 Europe/Berlin] 0:admin:archive.inc:38: Creation of dynamic property package::$storeonly is deprecated
+[14-Aug-2024 19:14:36 Europe/Berlin] 0:admin:archive.inc:39: Creation of dynamic property package::$error is deprecated
+[14-Aug-2024 19:14:36 Europe/Berlin] 0:admin:archive.inc:21: Creation of dynamic property package::$options is deprecated
+[14-Aug-2024 19:14:36 Europe/Berlin] 0:admin:archive.inc:36: Creation of dynamic property package::$files is deprecated
+[14-Aug-2024 19:14:36 Europe/Berlin] 0:admin:archive.inc:37: Creation of dynamic property package::$exclude is deprecated
+[14-Aug-2024 19:14:36 Europe/Berlin] 0:admin:archive.inc:38: Creation of dynamic property package::$storeonly is deprecated
+[14-Aug-2024 19:14:36 Europe/Berlin] 0:admin:archive.inc:39: Creation of dynamic property package::$error is deprecated
+[14-Aug-2024 19:14:47 Europe/Berlin] 0:admin:archive.inc:21: Creation of dynamic property package::$options is deprecated
+[14-Aug-2024 19:14:47 Europe/Berlin] 0:admin:archive.inc:36: Creation of dynamic property package::$files is deprecated
+[14-Aug-2024 19:14:47 Europe/Berlin] 0:admin:archive.inc:37: Creation of dynamic property package::$exclude is deprecated
+[14-Aug-2024 19:14:47 Europe/Berlin] 0:admin:archive.inc:38: Creation of dynamic property package::$storeonly is deprecated
+[14-Aug-2024 19:14:47 Europe/Berlin] 0:admin:archive.inc:39: Creation of dynamic property package::$error is deprecated
+[14-Aug-2024 19:14:47 Europe/Berlin] 0:admin:archive.inc:21: Creation of dynamic property package::$options is deprecated
+[14-Aug-2024 19:14:47 Europe/Berlin] 0:admin:archive.inc:36: Creation of dynamic property package::$files is deprecated
+[14-Aug-2024 19:14:47 Europe/Berlin] 0:admin:archive.inc:37: Creation of dynamic property package::$exclude is deprecated
+[14-Aug-2024 19:14:47 Europe/Berlin] 0:admin:archive.inc:38: Creation of dynamic property package::$storeonly is deprecated
+[14-Aug-2024 19:14:47 Europe/Berlin] 0:admin:archive.inc:39: Creation of dynamic property package::$error is deprecated
+[14-Aug-2024 19:20:28 Europe/Berlin] 0:admin:archive.inc:21: Creation of dynamic property package::$options is deprecated
+[14-Aug-2024 19:20:28 Europe/Berlin] 0:admin:archive.inc:36: Creation of dynamic property package::$files is deprecated
+[14-Aug-2024 19:20:28 Europe/Berlin] 0:admin:archive.inc:37: Creation of dynamic property package::$exclude is deprecated
+[14-Aug-2024 19:20:28 Europe/Berlin] 0:admin:archive.inc:38: Creation of dynamic property package::$storeonly is deprecated
+[14-Aug-2024 19:20:28 Europe/Berlin] 0:admin:archive.inc:39: Creation of dynamic property package::$error is deprecated
+[14-Aug-2024 19:20:28 Europe/Berlin] 0:admin:archive.inc:21: Creation of dynamic property package::$options is deprecated
+[14-Aug-2024 19:20:28 Europe/Berlin] 0:admin:archive.inc:36: Creation of dynamic property package::$files is deprecated
+[14-Aug-2024 19:20:28 Europe/Berlin] 0:admin:archive.inc:37: Creation of dynamic property package::$exclude is deprecated
+[14-Aug-2024 19:20:28 Europe/Berlin] 0:admin:archive.inc:38: Creation of dynamic property package::$storeonly is deprecated
+[14-Aug-2024 19:20:28 Europe/Berlin] 0:admin:archive.inc:39: Creation of dynamic property package::$error is deprecated
+[14-Aug-2024 19:20:33 Europe/Berlin] 0:admin:archive.inc:21: Creation of dynamic property package::$options is deprecated
+[14-Aug-2024 19:20:33 Europe/Berlin] 0:admin:archive.inc:36: Creation of dynamic property package::$files is deprecated
+[14-Aug-2024 19:20:33 Europe/Berlin] 0:admin:archive.inc:37: Creation of dynamic property package::$exclude is deprecated
+[14-Aug-2024 19:20:33 Europe/Berlin] 0:admin:archive.inc:38: Creation of dynamic property package::$storeonly is deprecated
+[14-Aug-2024 19:20:33 Europe/Berlin] 0:admin:archive.inc:39: Creation of dynamic property package::$error is deprecated
+[14-Aug-2024 19:20:33 Europe/Berlin] 0:admin:archive.inc:21: Creation of dynamic property package::$options is deprecated
+[14-Aug-2024 19:20:33 Europe/Berlin] 0:admin:archive.inc:36: Creation of dynamic property package::$files is deprecated
+[14-Aug-2024 19:20:33 Europe/Berlin] 0:admin:archive.inc:37: Creation of dynamic property package::$exclude is deprecated
+[14-Aug-2024 19:20:33 Europe/Berlin] 0:admin:archive.inc:38: Creation of dynamic property package::$storeonly is deprecated
+[14-Aug-2024 19:20:33 Europe/Berlin] 0:admin:archive.inc:39: Creation of dynamic property package::$error is deprecated
+[14-Aug-2024 19:24:21 Europe/Berlin] 0:admin:dashboard.inc:821: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[14-Aug-2024 19:24:21 Europe/Berlin] 0:admin:dashboard.inc:822: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[14-Aug-2024 19:24:22 Europe/Berlin] 0:admin:class.graphic.inc:282: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[14-Aug-2024 19:24:22 Europe/Berlin] 0:admin:class.graphic.inc:1240: Unhandled exception [0]: Call to undefined function imageftbbox().
+[17-Aug-2024 19:13:22 Europe/Berlin] 0::login.php:176:[before upgrade] Undefined variable $date_default_timezone_get
+[17-Aug-2024 19:13:22 Europe/Berlin] 0::login.php:176:[before upgrade] Unhandled exception [0]: Value of type null is not callable.
+[17-Aug-2024 19:16:25 Europe/Berlin] 0::login.php:176:[before upgrade] Undefined variable $time
+[17-Aug-2024 19:20:58 Europe/Berlin] 0::login.php:176:[before upgrade] Undefined variable $time
+[17-Aug-2024 19:58:27 Europe/Berlin] 0::login.php:176:[before upgrade] Undefined variable $time
+[17-Aug-2024 19:58:28 Europe/Berlin] 0::login.php:176:[before upgrade] Undefined variable $time
+[17-Aug-2024 19:59:35 Europe/Berlin] 0::login.php:176:[before upgrade] Undefined variable $time
+[17-Aug-2024 19:59:43 Europe/Berlin] 0:admin:login.php:176: Undefined variable $time
+[17-Aug-2024 22:29:58 Europe/Berlin] 0:admin:login.php:176:[before upgrade] Undefined variable $time
+[17-Aug-2024 23:21:33 Europe/Berlin] 0:admin:sales_kits.php:234: Trying to access array offset on value of type bool
+[17-Aug-2024 23:21:33 Europe/Berlin] 0:admin:sales_kits.php:235: Trying to access array offset on value of type bool
+[17-Aug-2024 23:21:33 Europe/Berlin] 0:admin:sales_kits.php:234: Trying to access array offset on value of type bool
+[17-Aug-2024 23:21:33 Europe/Berlin] 0:admin:sales_kits.php:235: Trying to access array offset on value of type bool
+[17-Aug-2024 23:49:51 Europe/Berlin] 0::login.php:176:[before upgrade] Undefined variable $time
+[17-Aug-2024 23:49:51 Europe/Berlin] 0::login.php:176:[before upgrade] Undefined variable $time
+[18-Aug-2024 00:03:11 Europe/Berlin] 0::login.php:176:[before upgrade] Undefined variable $time
+[18-Aug-2024 00:03:11 Europe/Berlin] 0::login.php:176:[before upgrade] Undefined variable $time
+[20-Aug-2024 11:47:42 America/Tegucigalpa] 0:admin:sales_order_entry.php:102: Undefined array key "page_title"
+[20-Aug-2024 11:47:42 America/Tegucigalpa] 0:admin:sales_order_entry.php:710: Undefined array key "Items"
+[20-Aug-2024 11:47:42 America/Tegucigalpa] 0:admin:sales_order_entry.php:710: Attempt to read property "fixed_asset" on null
+[20-Aug-2024 11:47:42 America/Tegucigalpa] 0:admin:sales_order_entry.php:717: Undefined array key "Items"
+[20-Aug-2024 11:47:42 America/Tegucigalpa] 0:admin:sales_order_entry.php:717: Attempt to read property "trans_type" on null
+[20-Aug-2024 11:47:42 America/Tegucigalpa] 0:admin:sales_order_entry.php:723: Undefined array key "Items"
+[20-Aug-2024 11:47:42 America/Tegucigalpa] 0:admin:sales_order_entry.php:723: Attempt to read property "trans_type" on null
+[20-Aug-2024 11:47:42 America/Tegucigalpa] 0:admin:sales_order_entry.php:729: Undefined array key "Items"
+[20-Aug-2024 11:47:42 America/Tegucigalpa] 0:admin:sales_order_entry.php:729: Attempt to read property "trans_type" on null
+[20-Aug-2024 11:47:42 America/Tegucigalpa] 0:admin:sales_order_entry.php:747: Unhandled exception [0]: Call to a member function is_started() on null.
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_entry.php:102: Undefined array key "page_title"
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_entry.php:549: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_entry.php:549: Attempt to read property "document_date" on null
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_ui.inc:19: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_ui.inc:20: Attempt to read property "sales_type" on null
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_ui.inc:20: Attempt to read property "price_factor" on null
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_db.inc:81: Trying to access array offset on value of type bool
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_ui.inc:31: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_ui.inc:32: Attempt to read property "sales_type" on null
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_ui.inc:32: Attempt to read property "price_factor" on null
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_db.inc:81: Trying to access array offset on value of type bool
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_ui.inc:55: Attempt to read property "line_items" on null
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_ui.inc:55: foreach() argument must be of type array|object, null given
+[20-Aug-2024 11:47:43 America/Tegucigalpa] 0:admin:sales_order_ui.inc:64: Unhandled exception [0]: Call to a member function add_to_cart() on null.
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_entry.php:102: Undefined array key "page_title"
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_entry.php:549: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_entry.php:549: Attempt to read property "document_date" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:19: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:20: Attempt to read property "sales_type" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:20: Attempt to read property "price_factor" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_db.inc:81: Trying to access array offset on value of type bool
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:31: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:32: Attempt to read property "sales_type" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:32: Attempt to read property "price_factor" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_db.inc:81: Trying to access array offset on value of type bool
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:55: Attempt to read property "line_items" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:55: foreach() argument must be of type array|object, null given
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:64: Unhandled exception [0]: Call to a member function add_to_cart() on null.
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_entry.php:102: Undefined array key "page_title"
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_entry.php:549: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_entry.php:549: Attempt to read property "document_date" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:19: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:20: Attempt to read property "sales_type" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:20: Attempt to read property "price_factor" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_db.inc:81: Trying to access array offset on value of type bool
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:31: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:32: Attempt to read property "sales_type" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:32: Attempt to read property "price_factor" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_db.inc:81: Trying to access array offset on value of type bool
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:55: Attempt to read property "line_items" on null
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:55: foreach() argument must be of type array|object, null given
+[20-Aug-2024 11:47:45 America/Tegucigalpa] 0:admin:sales_order_ui.inc:64: Unhandled exception [0]: Call to a member function add_to_cart() on null.
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_entry.php:102: Undefined array key "page_title"
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_entry.php:549: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_entry.php:549: Attempt to read property "document_date" on null
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_ui.inc:19: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_ui.inc:20: Attempt to read property "sales_type" on null
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_ui.inc:20: Attempt to read property "price_factor" on null
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_db.inc:81: Trying to access array offset on value of type bool
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_ui.inc:31: Attempt to read property "customer_currency" on null
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_ui.inc:32: Attempt to read property "sales_type" on null
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_ui.inc:32: Attempt to read property "price_factor" on null
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_db.inc:81: Trying to access array offset on value of type bool
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_ui.inc:55: Attempt to read property "line_items" on null
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_ui.inc:55: foreach() argument must be of type array|object, null given
+[20-Aug-2024 11:47:46 America/Tegucigalpa] 0:admin:sales_order_ui.inc:64: Unhandled exception [0]: Call to a member function add_to_cart() on null.
+[20-Aug-2024 12:16:00 America/Tegucigalpa] 0:admin:doctext.inc:265: Unhandled exception [0]: syntax error, unexpected token "if".
+[20-Aug-2024 12:16:02 America/Tegucigalpa] 0:admin:doctext.inc:265: Unhandled exception [0]: syntax error, unexpected token "if".
+[20-Aug-2024 12:16:03 America/Tegucigalpa] 0:admin:doctext.inc:265: Unhandled exception [0]: syntax error, unexpected token "if".
